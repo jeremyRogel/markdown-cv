@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeremy Rogel's CV
 ---
-# Isaac Newton
+# Jeremy Rogel
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
